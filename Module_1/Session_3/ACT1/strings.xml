@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Activity - Example!</string>
+    <string name="second">Activity - Second Loaded !</string>
+    <string name="app_name">SA1</string>
+
+</resources>

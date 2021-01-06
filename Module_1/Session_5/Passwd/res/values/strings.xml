@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Login Screen</string>
+    <string name="app_name">Passwd</string>
+    <string name="lun">Enter the User Name</string>
+    <string name="lpwd">Enter the Password</string>
+
+</resources>

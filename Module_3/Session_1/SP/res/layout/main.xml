@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello"
+        android:textSize="24dp" />
+
+    <EditText
+        android:id="@+id/e1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/e2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="104dp"
+        android:layout_height="wrap_content"
+        android:onClick="onLogin"
+        android:text="login" />
+
+</LinearLayout>

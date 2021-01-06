@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+
+    <Button
+        android:id="@+id/bm"
+        android:onClick="onMode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MODE" />
+
+    <Button
+        android:id="@+id/br"
+        android:onClick="onRing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RING" />
+
+    <Button
+        android:id="@+id/bv"
+        android:onClick="onVibrate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="VIBRATE" />
+
+    <Button
+        android:id="@+id/bs"
+        android:onClick="onSilent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SILENT" />
+
+</LinearLayout>

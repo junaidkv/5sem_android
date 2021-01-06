@@ -1,0 +1,10 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group android:id="@+id/File">
+            <item android:id="@+id/new1" android:title="New"></item>
+            <item android:id="@+id/exit" android:title="Exit"></item>
+        </group>
+        <group android:id="@+id/Help">
+            <item android:id="@+id/about" android:title="About"></item>
+        </group>
+    </menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ResultAct</string>
+    <string name="hello">Hello World, ResultActActivity!</string>
+    <string name="l1">No1</string>
+    <string name="l2">No2</string>
+    <string name="lbSum">SUM</string>
+    <string name="l3">Result</string>
+
+</resources>
